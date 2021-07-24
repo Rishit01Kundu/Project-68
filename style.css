@@ -1,0 +1,45 @@
+.announcement{
+    height: 35px;
+    width: 100%;
+    background-color: dodgerblue
+}
+.announcement #marqueeStyle{
+    font-size: 20px;
+    color: white;
+    font-weight: bolder;
+}
+iframe{
+    width: 1450px;
+    height: 700px;
+    margin: 60px;
+}
+#contact{
+    width: 100%;
+    height: 800px;
+    background-color: black;
+    text-align: center
+}
+#contact iframe{
+    height: 400px;
+    width: 50%;
+    margin: none;
+}
+#contact img{
+    height: 200px;
+    width: 230px;
+    margin-left: 300px;
+}
+#contact h3{
+    font: 30px ;
+    color: white;
+    font-weight: bold;
+    margin-right: 400px;
+}
+.contact_1 a{
+    color: white;
+    font-weight: bold;
+}
+.contact_1 a h5{
+    font: 25px white bold;
+    margin-right: 400px;
+}
